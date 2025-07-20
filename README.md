@@ -1,1 +1,2 @@
-vanilla app template
+Vanilla App Template
+
